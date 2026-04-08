@@ -1,0 +1,1 @@
+{"attempt_id":"att_acb7fa1f4cedc6bf100bc710","block_id":"blk_8b44ef3c8b82f1e32854","failure_tags":["nan_loss"],"file_path":"demo/train.py","function_name":"train_step","line_number":1,"outcome":"fail","param_name":"lr","param_value_normalized":"0.0010000000","param_value_raw":"1e-3","run_id":"demo-run-001","timestamp":"2026-04-07T12:00:00Z"}
